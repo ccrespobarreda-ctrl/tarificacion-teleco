@@ -311,6 +311,10 @@ tarificacion-teleco/
 
 ## 👤 Autor
 
-**Cris Crespo**
-Data Scientist
-[LinkedIn](https://linkedin.com/in/tu-perfil) · [GitHub](https://github.com/ccrespobarreda-ctrl)
+**Cris Crespo**  
+Data Scientist  
+
+[LinkedIn] · [GitHub]
+
+[LinkedIn]: https://www.linkedin.com/in/cristina-crespo-/
+[GitHub]: https://github.com/ccrespobarreda-ctrl
