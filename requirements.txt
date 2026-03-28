@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+xgboost==3.2.0
+scikit-learn
+pandas
+numpy==2.4.3
+category_encoders
+scipy
+python-multipart
+anthropic

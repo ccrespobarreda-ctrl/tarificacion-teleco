@@ -1,0 +1,6 @@
+﻿datos_teleco/
+mlruns/
+__pycache__/
+*.pkl
+*.db
+*.csv
